@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to top, #8eadf0 0%, #8ee4c3 100%);
+}
+table{
+    border: 1px solid black;
+}
+td,th{
+    border: 1px solid black;
+    padding: 1em;
+}
